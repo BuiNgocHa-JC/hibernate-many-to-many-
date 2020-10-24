@@ -1,0 +1,20 @@
+
+ƒ
+java:S3252 "aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(£ì¿†şÿÿÿÿ8êğÚĞÕ.
+m
+java:S3252!"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(³¿Àœ8êğÚĞÕ.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(óçÆÅûÿÿÿÿ8¯ÃÜĞÕ.
+l
+java:S3252"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(Æøäêşÿÿÿÿ8êğÚĞÕ.
+i
+java:S3252"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(¥Ê¯¿ùÿÿÿÿ8êğÚĞÕ.
+n
+java:S3252"LUse static access with "org.hibernate.cfg.AvailableSettings" for "SHOW_SQL".(ÖÈÅäúÿÿÿÿ8êğÚĞÕ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(‡Œïøşÿÿÿÿ8›º®ĞÕ.
+m
+java:S3252"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(ÔÎÄàøÿÿÿÿ8êğÚĞÕ.
+e
+java:S3252"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(Ï” œ8êğÚĞÕ.
+e
+java:S3252"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(¶·Ç8êğÚĞÕ.
